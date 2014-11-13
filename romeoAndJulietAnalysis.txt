@@ -1,0 +1,126 @@
+ROMEO AND JULIET ANALYSIS
+Letter Frequency
+The letter \n was used 6050 times.
+The letter   was used 34642 times.
+The letter ! was used 452 times.
+The letter & was used 2 times.
+The letter ' was used 858 times.
+The letter , was used 2717 times.
+The letter - was used 331 times.
+The letter . was used 967 times.
+The letter : was used 426 times.
+The letter ; was used 512 times.
+The letter ? was used 355 times.
+The letter [ was used 13 times.
+The letter ] was used 13 times.
+The letter a was used 8241 times.
+The letter b was used 1715 times.
+The letter c was used 2284 times.
+The letter d was used 3935 times.
+The letter e was used 12820 times.
+The letter f was used 2030 times.
+The letter g was used 1838 times.
+The letter h was used 6787 times.
+The letter i was used 6910 times.
+The letter j was used 278 times.
+The letter k was used 831 times.
+The letter l was used 4976 times.
+The letter m was used 3359 times.
+The letter n was used 6469 times.
+The letter o was used 8807 times.
+The letter p was used 1551 times.
+The letter q was used 65 times.
+The letter r was used 6489 times.
+The letter s was used 6585 times.
+The letter t was used 9710 times.
+The letter u was used 3760 times.
+The letter v was used 1109 times.
+The letter w was used 2519 times.
+The letter x was used 125 times.
+The letter y was used 2623 times.
+The letter z was used 32 times.
+
+Word Length Frequency.
+1092 words were 1 characters long.
+3836 words were 2 characters long.
+4618 words were 3 characters long.
+5649 words were 4 characters long.
+4028 words were 5 characters long.
+2562 words were 6 characters long.
+1585 words were 7 characters long.
+1058 words were 8 characters long.
+591 words were 9 characters long.
+313 words were 10 characters long.
+142 words were 11 characters long.
+91 words were 12 characters long.
+31 words were 13 characters long.
+22 words were 14 characters long.
+12 words were 15 characters long.
+7 words were 16 characters long.
+5 words were 17 characters long.
+1 words were 18 characters long.
+
+Line Length Analysis
+1896 lines had 0 characters in it.
+780 lines had 1 characters in it.
+239 lines had 2 characters in it.
+84 lines had 3 characters in it.
+155 lines had 4 characters in it.
+138 lines had 5 characters in it.
+264 lines had 6 characters in it.
+509 lines had 7 characters in it.
+803 lines had 8 characters in it.
+728 lines had 9 characters in it.
+347 lines had 10 characters in it.
+75 lines had 11 characters in it.
+20 lines had 12 characters in it.
+7 lines had 13 characters in it.
+3 lines had 14 characters in it.
+2 lines had 16 characters in it.
+
+Most Frequently Used Words:
+and
+the
+i
+to
+a
+of
+my
+is
+that
+in
+romeo
+you
+thou
+me
+not
+with
+it
+for
+this
+be
+but
+juliet
+thy
+what
+o
+as
+her
+will
+so
+nurse
+thee
+love
+capulet
+his
+have
+he
+by
+she
+shall
+lady
+your
+no
+
+Words Used Only Once:
+penury, perdonamis, amerce, minded, valentio, pilgrimage, rebeck, effeminate, arithmetic, humorous, roard, elder, affords, depth, stroke, stream, calamity, profaners, courageous, hissd, deflowered, impeach, bowboys, strucken, kings, pricking, peerd, sailing, drum, betossed, distressed, remedies, sauce, considering, lengthens, earliness, intercession, canker, folks, tributary, charnelhouse, joiner, greater, hairs, dispose, acquaint, fireeyed, fierce, stirs, silversweet, jointstools, dozen, gossamer, stoccata, letting, holiday, waxes, ourselves, angerd, becomes, dispatch, mousehunt, steepd, becomed, drop, tickle, orisons, unbound, advances, north, receive, overset, threehours, stint, behoveful, contempt, funeral, hurry, excuses, passage, heareth, excused, drops, spits, instant, combine, alligator, preciousjuiced, transparent, pentecost, mountain, unknown, punto, distilld, hasty, angels, thankings, highway, wagonspokes, blazon, goodfellows, smallest, chambermaids, carelessly, uncomfortable, chat, plaintainleaf, receipt, removed, friars, label, contagion, seasick, abuse, throw, wicked, worthy, slanderd, merriment, livia, revel, frank, mangle, lodges, felon, courtsies, afflicted, quarrels, stealth, liars, spilt, posterity, chaste, booted, steeds, couple, ministerd, discern, whateer, jaunting, dealing, create, breathes, liver, usest, lived, weakest, heretics, stick, unthankfulness, harlotry, danger, mistermd, musty, round, tatterd, interchanging, bred, topgallant, drag, awaking, tiptoe, flask, foundst, threatened, busied, terms, coachmakers, merrily, cram, although, raven, burns, stretch, least, seize, tarry, signal, shield, sententious, careful, skins, noting, selfwilld, warning, weighd, shirt, dovefeatherd, double, level, franciscan, leaps, bleeds, skill, falln, leapd, doublet, hencebanished, burial, marchpane, markman, voices, reads, leans, consents, bandying, sprung, wot, stillwaking, endart, won, propagate, cockahoop, reach, hunting, youngest, watchd, clears, frighted, sacrifices, byr, hopeful, covert, decreed, sacrificed, warmth, coverd, dwellswhich, allseeing, brought, angelical, huntsup, accident, lucentio, soonspeeding, umpire, maw, spoken, furnish, abhors, cynthias, rosalines, procures, unbruised, bescreend, borne, barefoot, winning, neighbour, treacherous, fears, deeds, sweetmeats, faster, direful, winter, notice, lolling, encamp, twinkle, nurseo, variable, wills, ladybird, profane, chapless, utterance, humours, reclaimd, misbehaved, marvellous, guide, lazypacing, tardy, shift, knaves, repliest, softest, crowkeeper, wrongst, convert, winking, opens, web, enjoind, prevails, iwell, thisthou, fruit, strains, copest, prorogued, unsubstantial, bon, walking, straind, conceald, shunnd, freetown, shelves, misty, digressing, venge, livest, weddingbed, nickname, predicament, distilled, execution, pieces, whoreson, softend, harsh, courtship, estate, braggart, sails, universal, penny, disperse, baptized, midwife, containing, tickling, ropery, ethiopes, comest, cloudy, swashing, ladyship, gorgeous, surgeon, bit, opposed, pined, doleful, vanishd, timeless, spit, slander, throughout, culling, murdered, proceeding, breaches, division, bauble, ambiguities, distemperature, lively, sweeting, low, opposition, greycoated, salutation, westward, contract, bedaubd, laura, maidenheads, west, returnd, chastity, text, sped, unwashed, willingly, wronged, earthen, allcheering, wives, jointure, familiar, glide, sinabsolver, sorry, vexed, gavest, dewdropping, proportion, wolvishravening, prolixity, loggerhead, redress, retorts, lip, continuance, went, crows, acted, dragon, procure, crowd, honesty, bodies, sets, fantasy, denied, famine, weary, certain, curfewbell, kitchenwench, exquisite, sobersuited, vows, foreign, medicine, vowd, afire, purblind, affray, elflocks, darest, troubled, weepst, ascend, shoemaker, complain, wanders, crossing, axe, madness, hazelnut, horrible, cordial, blades, amended, borrow, agrees, housewife, lap, headstrong, agile, buttshaft, masks, lovesong, deliverd, maskd, begun, dumps, mewd, yoke, vowel, conjured, nets, usurer, mebanished, keys, ast, lamentation, whistle, dined, ambling, torn, perverse, twere, falconers, fellowship, fearfully, pursuing, likely, proportiond, pens, deliciousness, ducats, sort, clout, versal, bepaint, rote, weal, prompter, sore, rites, romeobanished, powerful, ape, rose, counts, tool, dispraise, helena, begot, conquerd, senses, overheardst, raging, sees, pots, expressly, stumble, seem, cleopatra, sons, pulse, forgetting, perjured, valours, cooks, smatter, twisted, cleft, rood, nell, teat, candles, team, untaught, quarrelled, kept, concludes, wither, appertaining, lend, fivefathom, nobleman, rushd, unsatisfied, highmost, eastern, flecked, fortnight, plainly, beautify, beseeming, rigour, runnst, vessels, shanks, lawyers, opportunity, lour, belong, handsome, loud, hero, clear, ownbe, invocation, hungry, trumpet, visage, unreasonable, toes, moral, butcher, faintly, noon, arrow, bladders, jove, retain, loins, pear, transgression, pernicious, scrape, jour, add, dishonourd, arbitrating, pricksong, mood, provided, utters, advise, stumblest, spited, season, coldly, ensign, quarter, safety, oercoverd, solace, medlars, rode, nourishd, windswift, forerun, gown, jacks, darkness, conjurations, older, bought, sycamore, thrive, nuptials, unstaind, leaving, kin, healthsome, whispering, discolourd, clock, servingcreature, begone, peevish, female, waken, griping, endured, outcry, waddled, marrd, fell, traces, strangers, reflex, lean, stainless, trees, hideous, interrd, distemperd, sweetly, cloak, cotquean, quivers, gory, girls, promise, moderately, enrich, kinsmans, stumbled, valentine, sparing, grievance, glorious, furthest, april, nimblepiniond, comfortable, anonbut, government, berhyme, squirrel, deathmarkd, boys, rests, oddly, spanish, missheathed, reverend, tread, bent, hopes, traitor, bedeck, caitiff, join, bowl, eloquence, intend, holp, bowd, whining, torments, hole, feet, fees, brightness, bell, heat, cost, chequering, rains, enamourd, unrest, bout, driving, preserving, briefly, sweeter, employment, sweeten, urging, sharpground, agatestone, substantial, uttered, disparagement, flint, prepared, dowdy, maria, theno, petrarch, spheres, husbandfallst, bucklers, whiter, merchant, grieve, wrenching, smilest, basket, poperin, dashing, theme, lovingjealous, vitravio, deed, disgrace, coughing, interest, armour, thous, rattling, revenge, justly, boundless, exiled, deck, sucking, james, behavior, scales, ithere, conceive, poutst, chiefly, talkst, snow, phoebus, rememberd, tables, thorn, cockerels, alliance, chariot, feathers, jewel, yewtree, playd, godo, evening, thrice, lineament, flattering, whereto, visiting, closet, simpleness, caetera, smelling, coil, angry, dogs, mocker, jocund, thereof, errand, kindred, mistaenfor, doff, aches, wellgovernd, unseen, needful, environed, plats, offered, plate, baskets, boisterous, needst, attach, mickle, masterless, interrupt, whereon, marriageday, wring, confines, haply, tiberio, agree, dedicate, odds, burying, frowning, cock, affecting, hardhearted, laughs, crickets, theirs, strain, promised, heavenly, exposition, immoderately, portly, idle, plant, courage, unharmd, circle, dainty, fieldbed, affright, refuse, schoolboys, seeking, feign, wherein, simples, needly, talked, drave, keepers, knot, niece, gainst, decree, combined, virtue, inherit, winged, hooks, fails, pennyworths, advance, neglecting, clasps, plain, angel, counterfeitst, ones, deathbed, acknowledge, adding, dearer, toy, bleeding, pardoning, constables, porter, martino, monster, assailing, stifled, glooming, drudge, validity, wondering, phrase, rearward, sorted, knit, grudge, maiden, snatching, bread, manner, conveniently, cheers, dearest, heels, fettle, adoa, parting, lightness, descent, rogue, tackled, prefixed, tetchy, punished, doves, betrothd, assembly, greatest, hazel, putting, scourge, books, discovery, vainly, violently, potion, ambuscadoes, centre, forswear, trooping, broken, infold, thievish, revolts, neighbourstained, thisbe, musics, mannerly, meagre, breaks, disturbd, tormented, forbidden, following, apology, steals, howlings, inch, angelica, wretchedness, subtly, forms, divine, flirtgills, parties, catling, prudence, puling, unfold, forsooth, martial, aboard, hildings, dispute, anatomy, paramour, wilful, revive, servingman, secretnurse, its, mistresses, attempt, gnat, creature, poultice, ends, wenchs, adam, servingcreatures, bringing, oppress, expectst, easter, dians, spell, steads, hastes, stone, hasten, unseemly, thwarted, snowy, yielding, augmenting, asunder, aboundst, ink, stole, pleasant, danced, budge, singlesoled, bestride, force, stickst, extreme, gossip, retire, feather, treads, lenten, tutord, gipsy, courtcupboard, weandi, drums, sovereign, tuners, worldwhy, tasted, compliments, unclean, sheath, action, acquaintance, nipple, smelt, smell, displeased, slowd, acting, omit, havior, heartsick, absolved, greyeyed, necessaries, shrunk, chidst, wellseeming, minion, napkins, sunset, settled, bating, lenity, dignified, enoughtwill, worth, gracious, drunkard, acts, abhorred, illshaped, swearst, commission, worst, unstuffd, ladylord, morsel, fires, unwieldy, stock, fired, coward, intended, rebellious, courtsy, thrills, speakst, downright, goodmorrow, killing, baleful, countys, admired, large, obscured, purgatory, mantook, people, goeth, serpent, tyrannous, throats, culld, defiance, torchbearer, bodes, bosoms, echo, severity, fright, stakes, cockatrice, resign, rapiers, mammet, sway, grove, beggary, harlots, six, swan, soundpost, grasshoppers, comforted, shore, mistaking, convoy, homely, hymns, gross, ignorance, devout, country, owes, satisfaction, seeks, sheet, vaulty, portentous, singing, touching, plucks, severing, meteor, slandertybalt, ache, miscarried, hilding, jaunt, mixture, serpents, illdivining, smock, pestilence, attended, slop, torchbearers, monthly, battlements, holding, chinks, dangerous, operation, fares, lesser, badst, gentler, hinds, collar, privy, italy, score, inauspicious, eternal, prompt, seeds, plants, aching, tortoise, glove, benedicite, expire, ravens, louring, accidents, deathdarting, depend, curious, tombs, poised, pothecary, convey, scope, region, serious, scathe, associate, mandrakes, drowsy, slip, villanous, shrieks, professd, glory, attending, assure, virtuouswhere, prodigious, strive, hurdle, crave, lately, cheerful, tempt, furious, injuries, yard, speakest, gapes, hop, madmen, pricks, punishd, follows, shortly, prickd, engrossing, subjects, followd, penalty, perform, letterand, gleek, boxes, mischance, tower, suspecting, wary, restorative, remembering, denote, testify, swounded, virtues, bounty, athwart, drownd, ward, smells, divinest, vast, bestrides, reputation, ripening, ghost, tigers, gallop, quinces, lifts, forefathers, cheveril, pomegranatetree, repetition, carrionflies, heralds, trusty, warns, betake, undraws, sallow, statue, memory, pitch, idles, dreadful, unhallowd, lament, changes, ropes, tainted, crotchets, stratagems, twould, roe, prorogue, rash, sociable, runaways, fruittree, lessend, wait, arrives, wail, untangled, bench, herald, behests, whistles, canopy, justice, showering, health, extremes, issuing, path, coals, wayward, pate, misapplied, stirring, lasting, lazy, hai, writes, hag, tall, club, flow, inexorable, language, claps, fighting, waiting, ratcatcher, righteous, starveth, waverer, pierced, rank, rid, brawling, practise, sale, nobly, separated, beloved, loveperforming, tail, sides, plagues, religion, sideo, gravity, calld, bandy, looking, capulethold, misadventured, emperor, consume, joind, looked, soonest, flowered, tilts, bounds, madmans, chase, veronahow, discreet, vi, unlookdfor, reply, charm, appears, pestilent, divideth, lath, jaws, swifter, paly, skitless, crush, pitcher, doctrine, lash, muffled, dishonourable, receptacle, chaos, deceit, cuttst, falsehood, narrow, posthorses, inundation, rat, abed, sadly, liquor, splendor, gun, sack, lovedevouring, wounds, opposite, unsavoury, embrace, grindstone, flatteringsweet, frozen, ally, cherish, money, kindly, lane, dreamers, shrine, alla, lamp, accursed, ableeding, lame, blushing, surcease, petrucio, named, beautiful, flowering, behalf, cherishing, physic, hatred, importuned, flag, custom, chain, compliment, tasselgentle, playing, gorged, wailing, withoutbook, gate, according, rust, slewst, drizzle, pack, dislike, resolution, liquid, several, strangled, fate, sups, utter, healths, manys, labour, drier, tune, table, respects, confidence, dried, backs, cracking, eats, appetite, brainbut, dateless, bower, argument, suns, minim, progress, blackbrowd, push, hams, quivering, madly, gi, earl, riband, runs, unplagued, sends, rung, shriek, dash, stains, nuts, et, game, drawer, fans, upfill, savagewild, overthrows, loose, overthrown, greensickness, liest, lace, dignity, passd, beguild, shining, figure, dirges, whippd, minds, fairest, giddy, earthquake, banquet, jests, churl, prating, breaths, fieryfooted, traind, misfortune, atomies, breathe, fearst, dank, wellapparelld, intrusion, ormore, driveth, dates, victory, reels, frost, enpierced, quit, lurk, nuns, deformities, lure, reeky, couch, provoke, enjoyd, scaring, single, suspected, goreblood, sirreverence, alderman, fantasticoes, lightens, manly, deceased, monarch, crimson, throws, starcrossd, abuses, haughty, runagate, thrown, lookd, purge, abused, ball, proves, oerperch, traffic, stretches, naught, packthread, groand, society, numbers, learns, fade, descry, hills, lifeweary, simon, spakest, conduit, bait, signify, phaethon, singer, cage, impatient, trucklebed, spleen, liege, trunk, addle, maintains, clothes, manes, mistres, eight, rotten, anselme, hoars, meddle, extremities, uncoverd, thrusts, compass, dismemberd, countervail, hung, messages, mistemperd, eyeless, hoodwinkd, swallowd, dust, earthtreading, cakes, purple, yewtrees, cuts, fun, babe, special, whiteupturned, fleer, flood, digging, starved, friendship, added, constrains, thread, fume, residence, bills, worldwearied, straining, busy, forefinger, unluckily, bawdy, uproused, carrion, cutting, occupy, whoeer, reasons, supple, meanst, duns, cophetua, hugh, huge, blaze, himselfi, hanged, assistant, herring, pensive, offence, truce, childs, respective, citys, below, helen, divorced, therewithal, eagle, beggarmaid, compounds, catchd, groaning, speedy, weaker, renownd, direction, pastry, scarce, dreamd, bump, osier, speech, fashionmongers, afraid, bells, packed, maidenhoods, misfortunes, treason, ladder, muffle, stabbed, bankrupt, journey, wentst, blessings, idolatry, beginners, pry, asking, confounds, humbly, pleading, issue, carries, pencil, starve, invited, infant, unpleasing, displant, stranger, wheels, benefice, prostrate, quote, cancelld, entreated, lodge, moveth, unmade, partly, pox, peril, predominant, prisoner, uneven, himdead, heapd, pantry, brace, unruly, blame, armed, buds, suffer, languish, wreak, damnation, tutor, tallowface, violence, queen, perjuries, fay, burneth, freezes, presage, defence, faithfully, pin, pie, stark, praised, prouds, mantle, soles, deprived, wink, followers, limits, wine, afeard, parted, reconcile, taker, tartars, wield, maidenwidowed, saying, fiddlestick, esteem, longexperienced, divers, capuletwhich, beard, melancholy, purchase, calling, nieces, pen, moonshines, tips, disguised, childish, torment, trespass, rise, accustomd, theyre, saluteth, garish, beetle, stale, senseless, dissemblers, candleholder, whore, slays, tithepigs, wooes, spare, dishclout, seemst, ripe, hanging, flourishes, colliers, mixd, rocks, stair, stain, argues, cried, parsons, rind, martyrd, lucio, sleeping, liking, theyll, andgodden, stage, consortst, tying, naked, betwitched, markhere, rankd, piercing, gyves, yesternight, distraught, nimble, courts, mire, ties, sigh, list, parlous, learnedin, itch, minstrel, learned, tide, heartless, graze, owe, saintseducing, margent, gentlemanlike, befits, carriage, sharps, consequence, sinners, ell, fishified, promotion, swung, threatend, crystal, revels, solemn, pathways, solely, adjacent, beaten, puffs, catch, milk, moves, finding, tavern, title, miles, sending, perfection, captain, orb, tempesttossed, churchdoor, departed, haunt, moans, cannons, affliction, holidame, direct, newbeloved, curtain, fits, watery, aweary, thinly, een, mischief, dared, dearloved, allow, modern, consorted, south, beggarly, semblance, pupil, discharged, notes, childrens, wakened, placentio, noted, resort, potions, together, ebb, revolt, widow, infectious, lisping, invite, hill, slack, lief, severest, thingo, retiring, scars, swears, scarf, scare, displeasure, worshippd, dire, curse, sluttish, untalkd, unmannd, imagined, crownd, ashamed, titans, yellow, frowns, bakes, blessing, hereabout, spirits, trembles, reverso, baked, reverse, repose, film, entertaind, artificial, rancour, shegod, wondrous, shaft, study, continue, follower, provision, report, unadvised, stumbling, tried, desirest, scant, lustier, circled, stoppd, fishes, fisher, dine, meats, shady, hereabouts, accents, trick, forehead, christian, beasts, perhaps, whit, mistlike, unworthiest, princox, pardond, husbandgod, collars, railst, searchers, sojourn, abroach, shrived, spices, distance, serves, limping, misgives, prevented, dun, extremity, infinite, soninlaw, sisterhood, overwhelming, aimd, subject, staying, limit, despite, skainsmates, goodly, thin, request, triumphant, impute, grievances, lamentations, resolve, prest, died, ship, shin, lacks, lightly, undertake, sunder, judgmentplace, access, measuring, gadding, dido, cures, abbey, blisters, blisterd, unattainted, friendly, demand, forsaken, adversitys, greetings, dial, proverbd, bids, painter, dexterity, remnants, bide, painted, sparkling, matron, lamps, drivelling, discovered, writing, nephew, thinking, conspires, thigh, perjury, adversary, rooteth, bachelor, brisk, possess, deliver, mantuas, treasure, bondage, slugabed, unnatural, flowed, lammastide, auroras, sisters, steerage, pipes, submission, injured, sounds, askd, peppered, anguish, contradict, festering, exhales, ordained, unfurnished, stirreth, climbs, properer, scatterd, school, childhood, temperd, attires, mourners, honestly, bargain, perchance, mumbling, qualities, goodman, choking, brine, chances, choplogic, merchandise, button, peruse, tree, farthest, medlar, matternurse, points, learning, incorporate, redeem, unkind, noses, menace, startles, enforce, trifling, singleness, grubs, sweetheart, discover, s, brotherhood, turnd, sympathy, tempering, fountains, abate, closely, indite, ancestors, aspired, dressd, sooner, hates, parentage, excess, unfirm, antony, hated, grub, 
